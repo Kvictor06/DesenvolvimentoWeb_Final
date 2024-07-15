@@ -1,0 +1,8 @@
+![cadastro](https://github.com/user-attachments/assets/95c0e019-d2c5-417c-af1d-818e89fcbf0b)
+![criar usuário](https://github.com/user-attachments/assets/0842c0a9-d942-4369-b5bc-e0b2c283de4a)
+![editando usuário cadastrado](https://github.com/user-attachments/assets/3ec4fe6e-78df-4c77-ac4c-385d89d6d5ff)
+![editar - excluir](https://github.com/user-attachments/assets/586ba4e5-fcca-4b40-861a-7781f61caf8c)
+![Sem usuários cadastrados](https://github.com/user-attachments/assets/8de46e68-0c1f-4398-9ed2-ef34599406f9)
+![usuário cadastrado ](https://github.com/user-attachments/assets/d4af19e4-d03f-4c54-899d-6286d7c54972)
+![usuário deletado](https://github.com/user-attachments/assets/930b194e-34a6-47b2-84fc-d68c6766d629)
+![usuário editado](https://github.com/user-attachments/assets/ba15b2c8-f63b-411a-975f-da0ba370fbe2)
